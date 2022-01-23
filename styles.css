@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 5%;
+  background-color: #003049;
+  text-align: center;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.container {
+  margin-top: 5%;
+  width: 50%;
+}
+
+.play-title {
+  cursor: pointer;
+}
+
+.container {
+  position: relative;
+}
+
+.invisible {
+  display: none;
+}
+
+.winner-title {
+  margin-bottom: 5%;
+}
+h1 {
+  font-size: 3em;
+}
+h2 {
+  display: inline-block;
+}
+
+img {
+  width: 75%;
+}
+
+@media screen and (max-width: 992px) {
+  .second-player {
+    margin-top: 20%;
+  }
+}
