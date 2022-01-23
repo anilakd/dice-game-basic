@@ -43,3 +43,9 @@ img {
     margin-top: 20%;
   }
 }
+
+@media screen and (max-width: 992px) {
+  .winner-title {
+    margin-top: 35%;
+  }
+}
